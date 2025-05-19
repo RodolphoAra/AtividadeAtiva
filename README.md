@@ -1,3 +1,6 @@
+Trabalho na disciplina Lógica- Algoritmos e Programação de Computadores. 1° semestre graduação de Engenharia de Software
+[AA.pdf](https://github.com/user-attachments/files/20319543/AA.pdf) -> Anexo da Descrição da atividade.
+
 1 - Explicação das funções def do código
 
 1.1 – Dicionários bases do Código: para armazenamento de dados ‘email_senha’ e ‘cardapio’ serão usados como base para criar, respectivamente, cadastro.json e cardapio.json. Esses dicionários podem ser alterados a necessidade do cliente – os logins e cardápio apresentados, são meramente exemplos;
@@ -21,3 +24,4 @@
 1.10 – Função menu_funcionario(): Menu para funcionários com as funções gerenciar_pedidos(), adicionar_pratos(), remover_pratos() e alterar_preços().
 
 1.11 – Checkout: verifica se o cadastro() retornou o user, em caso positivo direciona o user dependendo de sua ‘função’: ‘Cliente’ ou ‘Empregado’ para, respectivamente, o menu_cliente() ou o menu_funcionario().
+
